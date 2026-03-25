@@ -70,6 +70,21 @@ I'm a **Software Engineer Associate Manager at Accenture** with **10+ years** of
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
+### Payment Gateways
+![Razorpay](https://img.shields.io/badge/Razorpay-02042B?style=flat-square&logo=razorpay&logoColor=3395FF)
+![Paytm](https://img.shields.io/badge/Paytm-002970?style=flat-square&logo=paytm&logoColor=00BAF2)
+![PhonePe](https://img.shields.io/badge/PhonePe-5F259F?style=flat-square&logoColor=white)
+![UPI](https://img.shields.io/badge/UPI-FF6600?style=flat-square&logoColor=white)
+![Stripe](https://img.shields.io/badge/Stripe-635BFF?style=flat-square&logo=stripe&logoColor=white)
+![PayPal](https://img.shields.io/badge/PayPal-003087?style=flat-square&logo=paypal&logoColor=white)
+
+### Custom LLM Development
+![Hugging Face](https://img.shields.io/badge/Hugging_Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logoColor=white)
+![RAG](https://img.shields.io/badge/RAG_Pipelines-6c63ff?style=flat-square&logoColor=white)
+![LoRA](https://img.shields.io/badge/LoRA%2FQLoRA_Fine--Tuning-FF6B35?style=flat-square&logoColor=white)
+![Vector DB](https://img.shields.io/badge/Vector_Databases-00D4AA?style=flat-square&logoColor=white)
+
 ---
 
 ## 💼 Experience
@@ -83,12 +98,23 @@ I'm a **Software Engineer Associate Manager at Accenture** with **10+ years** of
 
 ---
 
-## 🧠 Multi-Agent AI & Video Generation
+## 🧠 Multi-Agent AI, LLMs & Video Generation
 
 ### Multi-Agent Setup (Claude + Copilot)
 - Designed and deployed **multi-agent agentic workflows** combining **Claude (Anthropic)** and **GitHub Copilot** for enterprise development teams
 - Orchestrated agents for automated code review, documentation generation, test synthesis, and requirements analysis
 - Built prompt chains and agent-to-agent handoff protocols for complex software engineering pipelines
+
+### Custom LLM Development
+- Fine-tuned domain-specific LLMs using **LoRA / QLoRA** on Hugging Face for legal, healthcare, e-commerce, and enterprise knowledge management use cases
+- Built **RAG (Retrieval-Augmented Generation)** pipelines with vector databases (Pinecone, ChromaDB, Weaviate) and **LangChain** for grounded, context-aware responses
+- Deployed custom models on AWS SageMaker and Azure ML with production-grade APIs
+- Delivered LLM solutions across **multiple client projects** — from chatbots to document intelligence and code generation assistants
+
+### Payment Gateway Integration
+- Integrated **Razorpay**, **Paytm**, **PhonePe**, and **UPI** for Indian clients across Android, iOS, and web platforms
+- Implemented **Stripe** and **PayPal** for international/global payment flows
+- Experience with subscription billing, webhook handling, refund automation, and **PCI-DSS compliant** architecture
 
 ### AI Video Generation
 - End-to-end AI video production using **Sora**, **RunwayML**, **HeyGen**, **Pika Labs**, and **Kling AI**
@@ -157,6 +183,8 @@ I'm available for freelance engagements in:
 - 🌐 Full-stack web apps (Spring Boot, PHP, Node.js)
 - ☁️ Cloud infrastructure management & architecture (AWS / Azure / GCP)
 - 🤖 Multi-agent AI systems (Claude + GitHub Copilot)
+- 🧠 Custom LLM development — fine-tuning, RAG pipelines, domain-specific models
+- 💳 Payment gateway integration — Razorpay, Paytm, UPI, PhonePe, Stripe, PayPal
 - 🎬 AI video generation pipelines & automation
 - 🏗️ Infrastructure management, IaC & solutions architecture
 - 👥 Technical leadership, code reviews & engineering strategy
